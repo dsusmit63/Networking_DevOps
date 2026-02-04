@@ -15,7 +15,7 @@ Without networking, there would be:
 - ❌ No file sharing
 
 ---
-<img width="1063" height="231" alt="image" src="https://github.com/user-attachments/assets/b833328b-2c39-405b-946c-cb7b820444a3" />
+
 
 
 > 💡 **Note**  
@@ -40,7 +40,7 @@ Without networking, there would be:
 - Mostly wireless
 - **Technologies used:** Bluetooth, USB/Tethering (file transfer)
 
- <img width="817" height="250" alt="image" src="https://github.com/user-attachments/assets/56b8c3e8-3c9e-416f-b20b-d35ca2cf2058" />
+
 
 
 ---
@@ -55,7 +55,6 @@ Without networking, there would be:
 - High speed
 - Low latency
 
- <img width="556" height="484" alt="image" src="https://github.com/user-attachments/assets/77023ca2-1ed4-4040-99b2-7150149902a0" />
 
 
 ---
@@ -66,7 +65,6 @@ Without networking, there would be:
 - Medium speed
 - More expensive than LAN
 
-<img width="521" height="391" alt="image" src="https://github.com/user-attachments/assets/300d0e48-a9ec-4e4e-9eba-89b2b39e0a63" />
 
 
 ---
