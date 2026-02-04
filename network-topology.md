@@ -19,8 +19,7 @@ Network Topology is the physical or logical layout of a network — basically ho
 - Backbone failure = whole network down
 - Performance degrades as traffic increases
 
-<img width="491" height="390" alt="image" src="https://github.com/user-attachments/assets/40b3888a-7b40-4ef8-8d02-e980fdbe1b3b" />
-
+<img width="585" height="488" alt="image" src="https://github.com/user-attachments/assets/241d0090-7d40-4e7a-848c-7f05c1a4c493" />
 
 ---
 
@@ -37,8 +36,7 @@ Network Topology is the physical or logical layout of a network — basically ho
 ### ❌ Cons
 - Central device failure = network down
 
-<img width="466" height="410" alt="image" src="https://github.com/user-attachments/assets/02e712aa-09db-4a12-8c76-64c8b14bfb45" />
-
+<img width="579" height="543" alt="image" src="https://github.com/user-attachments/assets/a41d2104-19f4-412f-a63e-09aeab866081" />
 
 ---
 
@@ -54,8 +52,7 @@ Network Topology is the physical or logical layout of a network — basically ho
 ### ❌ Cons
 - One device failure = whole network down
 
-<img width="461" height="438" alt="image" src="https://github.com/user-attachments/assets/abb828a9-f261-4a1c-8bb5-f59e5208bf24" />
-
+<img width="555" height="516" alt="image" src="https://github.com/user-attachments/assets/195ed8e0-2560-4d16-9ded-f6d15b74127b" />
 
 ---
 
@@ -73,8 +70,7 @@ Network Topology is the physical or logical layout of a network — basically ho
 - Complex, hard to scale and manage
 - Expensive
 
-<img width="494" height="443" alt="image" src="https://github.com/user-attachments/assets/0b69cdc6-cda6-4b9d-99b6-751a3a3b8848" />
-
+<img width="542" height="539" alt="image" src="https://github.com/user-attachments/assets/e684f8b1-672d-4369-88fa-eff2316d1567" />
 
 ---
 
@@ -91,8 +87,7 @@ Network Topology is the physical or logical layout of a network — basically ho
 ### ❌ Cons
 - Upper-level failure affects lower levels
 
-<img width="473" height="416" alt="image" src="https://github.com/user-attachments/assets/cafb4ac1-c822-4fe2-80b3-e656580c4d42" />
-
+<img width="549" height="506" alt="image" src="https://github.com/user-attachments/assets/17983a45-0815-48b4-b895-f539e0f7aba4" />
 
 ---
 
@@ -107,8 +102,7 @@ Network Topology is the physical or logical layout of a network — basically ho
 ### ❌ Cons
 - Design complexity
 
-<img width="476" height="421" alt="image" src="https://github.com/user-attachments/assets/8af7d7d0-e530-412a-babe-cd85b52201d1" />
-
+<img width="528" height="506" alt="image" src="https://github.com/user-attachments/assets/855721ab-5097-4898-b6e3-256aaae04716" />
 
 ---
 
