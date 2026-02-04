@@ -2,7 +2,8 @@
 
 The OSI Model is a conceptual 7-layered framework that explains how data travels from one system to another over a network.
 
-<img width="566" height="374" alt="image" src="https://github.com/user-attachments/assets/20c8ca41-c691-441c-ba78-22e9cf3f9c75" />
+<img width="763" height="507" alt="image" src="https://github.com/user-attachments/assets/bf5af090-282b-4cf8-ba1f-7555ec636a71" />
+
 
 
 ---
