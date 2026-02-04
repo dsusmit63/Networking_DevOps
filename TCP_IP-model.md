@@ -2,7 +2,8 @@
 
 The TCP/IP Model is a practical 4-layered framework that explains how data travels from one system to another over a network.
 
-<img width="492" height="329" alt="image" src="https://github.com/user-attachments/assets/9e8ac76c-d917-41fd-9ce3-4a3f294d81bf" />
+<img width="766" height="501" alt="image" src="https://github.com/user-attachments/assets/50361416-9670-489f-bcdb-3d8539f8c384" />
+
 
 
 ---
